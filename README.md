@@ -14,7 +14,7 @@
 
 <h2> About Me <img src = "https://giffiles.alphacoders.com/120/120412.gif" width = 100px></h2>
 
-<img width="55%" align="right" alt="Github" src="https://p.kindpng.com/picc/s/112-1127566_software-development-life-cycle-png-transparent-png.png" />
+<img width="55%" align="right" alt="developing" src="https://imgur.com/xwnzLIT" />
 
 - 🔭 I’m currently working on My portfolio, Help-Desk, Front-End Development
 

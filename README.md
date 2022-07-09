@@ -12,11 +12,11 @@
 <div size="100"> Hi! My name is Francisco Machado Carreiro. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://giffiles.alphacoders.com/120/120412.gif" width="50"></h2>
+<h2> About Me <img src = "https://giffiles.alphacoders.com/120/120412.gif" width="100"></h2>
 
  </br>
  
-<img width="55%" align="right" alt="developing" src="https://i.imgur.com/xwnzLIT.png" />
+<img width="100" align="right" alt="developing" src="https://i.imgur.com/xwnzLIT.png" />
 
 - 🔭 I’m currently working on a new portfolio, IT Help-Desk, Front-End Development and Graphic Design
 

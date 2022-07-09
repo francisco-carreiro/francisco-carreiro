@@ -16,7 +16,7 @@
 
  </br>
  
-<img width="100" align="right" alt="developing" src="https://i.imgur.com/xwnzLIT.png" />
+<img width="350" align="right" alt="developing" src="https://i.imgur.com/xwnzLIT.png" />
 
 - 🔭 I’m currently working on a new portfolio, IT Help-Desk, Front-End Development and Graphic Design
 
@@ -28,22 +28,22 @@
  
 </br>
 
-<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "16px"> </h2>
-<a style="background-color:powderblue;" href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>  </a> &nbsp;
-<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a> &nbsp;
-<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a> &nbsp;
-<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=c&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a> &nbsp;
-<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=java&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a> &nbsp;
-<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a> &nbsp;
-<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a> &nbsp;
-<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a> &nbsp;
-<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a> &nbsp;
-<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=reactnative&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg'> </a> &nbsp;
-<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=spring&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a> &nbsp;
-<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=apachecordova&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/apachecordova.svg'> </a> &nbsp;
-<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=php&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a> &nbsp;
-<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a> &nbsp;
-<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=illustrator&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg'> </a>
+<h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "100"> </h2>
+<a style="background-color:powderblue;" href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=python&sort= > <img width ='50' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'>  </a> &nbsp;
+<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=reactjs&sort= > <img width ='50' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'> </a> &nbsp;
+<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=javascript&sort= > <img width ='50' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a> &nbsp;
+<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=c&sort= > <img width ='50' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a> &nbsp;
+<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=java&sort= > <img width ='50' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg'> </a> &nbsp;
+<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=mysql&sort= > <img width ='50' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a> &nbsp;
+<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=html&sort= > <img width ='50' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg'> </a> &nbsp;
+<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=css&sort= > <img width ='50' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'> </a> &nbsp;
+<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=bootstrap&sort= > <img width ='50' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'> </a> &nbsp;
+<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=reactnative&sort= > <img width ='50' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactnative.svg'> </a> &nbsp;
+<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=spring&sort= > <img width ='50' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg'> </a> &nbsp;
+<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=apachecordova&sort= > <img width ='50' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/apachecordova.svg'> </a> &nbsp;
+<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=php&sort= > <img width ='50' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> </a> &nbsp;
+<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=photoshop&sort= > <img width ='50' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/photoshop.svg'> </a> &nbsp;
+<a href= https://github.com/francisco-carreiro?tab=repositories&q=&type=&language=illustrator&sort= > <img width ='50' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/illustrator.svg'> </a>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px"> </h2>

@@ -56,7 +56,7 @@
 <h2> My GitHub Stats </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=francisco-carreiro&count_private=true&show_icons=true&theme=github_dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=francisco-carreiro&count_private=true&show_icons=true&theme=github_dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francisco-carreiro&layout=compact&theme=github_dark" />
@@ -67,7 +67,7 @@
 </br>
 </br>
 
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75'></h2>
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '75' align="center"></h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 

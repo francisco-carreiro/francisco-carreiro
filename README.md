@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%"  src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/6ac5bdfa-4b5a-4016-b551-016363f6f87b/derrkv1-c167e54b-c22d-4fa9-9f53-5d93c95b8e28.jpg/v1/fill/w_1280,h_320,q_75,strp/personal_linkedin_banner_by_demipsycho_derrkv1-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MzIwIiwicGF0aCI6IlwvZlwvNmFjNWJkZmEtNGI1YS00MDE2LWI1NTEtMDE2MzYzZjZmODdiXC9kZXJya3YxLWMxNjdlNTRiLWMyMmQtNGZhOS05ZjUzLTVkOTNjOTViOGUyOC5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.SoTeTyQtM70bKG8xjuexU7BS_9J4Maz_xqQlkItpkM4" alt="cover" />
+<img width="100%"  src="https://media-exp1.licdn.com/dms/image/C4D16AQHoCh7JczoW6w/profile-displaybackgroundimage-shrink_350_1400/0/1658602984489?e=1671062400&v=beta&t=OdQbmMAfr4pY86WiXtA1NyzhDXZ12jXcsJefzFihQLw" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://i.pinimg.com/originals/fe/bb/a5/febba5760a7d772543052f2007ed4ef0.gif" width="100"> </h1>

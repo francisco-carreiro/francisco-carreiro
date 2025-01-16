@@ -1,9 +1,5 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://i.pinimg.com/originals/fe/bb/a5/febba5760a7d772543052f2007ed4ef0.gif" width="100"> </h1>
-<p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=francisco-carreiro.francisco-carreiro&style=plastic)
-
-</p>
 <div size="100"> Hi! My name is Francisco Machado Carreiro. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 

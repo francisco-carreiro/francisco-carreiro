@@ -1,7 +1,3 @@
-<div align="center">
-<img width="100%"  src="https://media.licdn.com/dms/image/C4D16AQHoCh7JczoW6w/profile-displaybackgroundimage-shrink_350_1400/0/1658602984489?e=1696464000&v=beta&t=XO0nqxQxZeGzZYsVfsvAUh_ttM6o5inNdKkt7zXUBLU" alt="cover" />
-</div>
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://i.pinimg.com/originals/fe/bb/a5/febba5760a7d772543052f2007ed4ef0.gif" width="100"> </h1>
 <p align='center'>
 

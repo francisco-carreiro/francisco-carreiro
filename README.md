@@ -28,10 +28,10 @@ I like making things that solve real problems, whether that's a web application,
 ### 🐙 Release the Kraken
 
 <p align="center">
-  <img src="assets/kraken-terminal-v3.gif" alt="Animated ASCII kraken rising from waves beside a developer mission console, with moving tentacles and blinking terminal cursor." width="100%" />
+  <img src="assets/kraken-terminal-v4.gif" alt="Cinematic animated ASCII Kraken rising from a moonlit sea within a dark terminal interface. Crimson eyes glow, tentacles and waves shift, and a developer command prompt appears beneath the scene." width="100%" />
 </p>
 
-<sub>Original, self-hosted animated GIF of a kraken terminal. No JavaScript, tracking, remote renderers, or simulated live GitHub statistics. The GIF is a decorative illustration; it will animate unless your viewer pauses animated images.</sub>
+<sub>An original cinematic ASCII Kraken inside a terminal-inspired frame. Locally rendered animated GIF; no scripts, external image services, or fabricated GitHub metrics.</sub>
 
 ### Selected projects
 

@@ -28,13 +28,10 @@ I like making things that solve real problems, whether that's a web application,
 ### 🐙 Release the Kraken
 
 <p align="center">
-  <picture>
-    <source media="(max-width: 640px)" srcset="assets/salty-siren-terminal-mobile.svg" />
-    <img src="assets/salty-siren-terminal.svg" alt="An original animated ASCII kraken with moving tentacles, glowing eyes and rolling waves, rising beside a creative developer terminal." width="100%" />
-  </picture>
+  <img src="assets/kraken-terminal-v3.gif" alt="Animated ASCII kraken rising from waves beside a developer mission console, with moving tentacles and blinking terminal cursor." width="100%" />
 </p>
 
-<sub>Original animated ASCII kraken, built as self-hosted SVG artwork with alternating tentacle poses and flowing waves. No JavaScript, tracking, remote generators, or live-data claims. Respects reduced-motion settings.</sub>
+<sub>Original, self-hosted animated GIF of a kraken terminal. No JavaScript, tracking, remote renderers, or simulated live GitHub statistics. The GIF is a decorative illustration; it will animate unless your viewer pauses animated images.</sub>
 
 ### Selected projects
 

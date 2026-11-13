@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 232" width="900" height="232" role="img" aria-labelledby="title desc">
+<title id="title">DIGITAL PORTFOLIO — GitHub featured project</title>
+<desc id="desc">FRONT-END · INTERFACES · VISUAL DESIGN. Dark engineering-style project card with a distinct vector emblem and #EC8999 accents.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0C131F"/><stop offset=".6" stop-color="#121E2C"/><stop offset="1" stop-color="#0D1622"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#EC8999"/><stop offset="1" stop-color="#B56CA8" stop-opacity=".05"/></linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#B4C5D5" stroke-opacity=".045"/></pattern>
+</defs>
+<rect x="1" y="1" width="898" height="230" rx="14" fill="url(#background)" stroke="#3B4D60" stroke-width="1.5"/>
+<rect x="2" y="2" width="896" height="228" rx="13" fill="url(#grid)"/>
+<path d="M22 21H878" stroke="#394C5E"/>
+<circle cx="32" cy="21" r="4" fill="#E97986"/><circle cx="48" cy="21" r="4" fill="#E5BB7B"/><circle cx="64" cy="21" r="4" fill="#81CAB6"/>
+<rect x="22" y="46" width="4" height="30" rx="2" fill="#EC8999"/>
+<text x="38" y="65" font-family="Consolas,'Liberation Mono',monospace" font-size="12" fill="#EC8999" font-weight="700" letter-spacing="1.8">04 / CREATIVE ENGINEERING</text>
+<text x="37" y="120" font-family="Segoe UI,Arial,sans-serif" font-size="35" fill="#F0F5FA" font-weight="800" letter-spacing=".25">DIGITAL PORTFOLIO</text>
+<text x="38" y="146" font-family="Consolas,'Liberation Mono',monospace" font-size="13" fill="#A7BCCF" letter-spacing=".45">FRONT-END · INTERFACES · VISUAL DESIGN</text>
+<rect x="37" y="177" width="118.1" height="25" rx="5" fill="#EC8999" fill-opacity=".09" stroke="#EC8999" stroke-opacity=".34"/><text x="46.0" y="193" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#EC8999" letter-spacing=".65">DESIGN SYSTEMS</text>
+<rect x="164.10000000000002" y="177" width="82.4" height="25" rx="5" fill="#EC8999" fill-opacity=".09" stroke="#EC8999" stroke-opacity=".34"/><text x="173.1" y="193" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#EC8999" letter-spacing=".65">FRONT-END</text>
+<rect x="255.45000000000005" y="177" width="111.0" height="25" rx="5" fill="#EC8999" fill-opacity=".09" stroke="#EC8999" stroke-opacity=".34"/><text x="264.5" y="193" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#EC8999" letter-spacing=".65">CREATIVE WORK</text>
+<path d="M37 216H644" stroke="url(#accent)" stroke-width="2"/>
+<circle cx="758" cy="108" r="95" fill="#EC8999" fill-opacity=".025"/>
+<g transform="translate(758 108)" fill="none" stroke="#EC8999" stroke-width="3" stroke-linejoin="round"><rect x="-77" y="-53" width="154" height="106" rx="11" stroke-opacity=".7"/><path d="M-77 -29H77 M-46 53V67 M46 53V67 M-46 67H46" stroke-opacity=".65"/><circle cx="-57" cy="-41" r="4" fill="#EC8999" stroke="none"/><circle cx="-41" cy="-41" r="4" fill="#EC8999" stroke="none"/><path d="M-49 -6L-22 -23L4 -2L32 -20L51 -1 M-49 20H50 M-49 32H19" stroke-width="2.5"/></g>
+</svg>

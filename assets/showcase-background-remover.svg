@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 232" width="900" height="232" role="img" aria-labelledby="title desc">
+<title id="title">BACKGROUND REMOVER — GitHub featured project</title>
+<desc id="desc">PYTHON · IMAGE PROCESSING · DESKTOP. Dark engineering-style project card with a distinct vector emblem and #82BDF1 accents.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0C131F"/><stop offset=".6" stop-color="#121E2C"/><stop offset="1" stop-color="#0D1622"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#82BDF1"/><stop offset="1" stop-color="#6888D1" stop-opacity=".05"/></linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#B4C5D5" stroke-opacity=".045"/></pattern>
+</defs>
+<rect x="1" y="1" width="898" height="230" rx="14" fill="url(#background)" stroke="#3B4D60" stroke-width="1.5"/>
+<rect x="2" y="2" width="896" height="228" rx="13" fill="url(#grid)"/>
+<path d="M22 21H878" stroke="#394C5E"/>
+<circle cx="32" cy="21" r="4" fill="#E97986"/><circle cx="48" cy="21" r="4" fill="#E5BB7B"/><circle cx="64" cy="21" r="4" fill="#81CAB6"/>
+<rect x="22" y="46" width="4" height="30" rx="2" fill="#82BDF1"/>
+<text x="38" y="65" font-family="Consolas,'Liberation Mono',monospace" font-size="12" fill="#82BDF1" font-weight="700" letter-spacing="1.8">03 / AUTOMATION</text>
+<text x="37" y="120" font-family="Segoe UI,Arial,sans-serif" font-size="35" fill="#F0F5FA" font-weight="800" letter-spacing=".25">BACKGROUND REMOVER</text>
+<text x="38" y="146" font-family="Consolas,'Liberation Mono',monospace" font-size="13" fill="#A7BCCF" letter-spacing=".45">PYTHON · IMAGE PROCESSING · DESKTOP</text>
+<rect x="37" y="177" width="132.4" height="25" rx="5" fill="#82BDF1" fill-opacity=".09" stroke="#82BDF1" stroke-opacity=".34"/><text x="46.0" y="193" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#82BDF1" letter-spacing=".65">BATCH PROCESSING</text>
+<rect x="178.4" y="177" width="125.3" height="25" rx="5" fill="#82BDF1" fill-opacity=".09" stroke="#82BDF1" stroke-opacity=".34"/><text x="187.4" y="193" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#82BDF1" letter-spacing=".65">DESKTOP UTILITY</text>
+<rect x="312.65" y="177" width="60.9" height="25" rx="5" fill="#82BDF1" fill-opacity=".09" stroke="#82BDF1" stroke-opacity=".34"/><text x="321.6" y="193" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#82BDF1" letter-spacing=".65">PYTHON</text>
+<path d="M37 216H644" stroke="url(#accent)" stroke-width="2"/>
+<circle cx="758" cy="108" r="95" fill="#82BDF1" fill-opacity=".025"/>
+<g transform="translate(758 108)" fill="none" stroke="#82BDF1" stroke-width="3" stroke-linejoin="round"><rect x="-70" y="-52" width="140" height="104" rx="13" stroke-opacity=".7"/><circle cx="34" cy="-23" r="13"/><path d="M-55 32L-15 -8L12 21L28 5L54 32" stroke-linecap="round"/><path d="M-86 -35H-76M-86 -20H-76M76 20H86M76 35H86 M-43 -68V-58M-26 -68V-58M27 58V68M44 58V68" stroke-opacity=".55"/></g>
+</svg>

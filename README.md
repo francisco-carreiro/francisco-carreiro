@@ -25,16 +25,16 @@ I like making things that solve real problems, whether that's a web application,
 - **Explore:** AI-assisted software, local-first systems, and creative interfaces
 - **Create:** visual identity, UI/UX, interactive experiences, and games
 
-### ⚓ From the shipyard
+### 🐙 Release the Kraken
 
 <p align="center">
   <picture>
     <source media="(max-width: 640px)" srcset="assets/salty-siren-terminal-mobile.svg" />
-    <img src="assets/salty-siren-terminal.svg" alt="The Salty Siren: an animated ASCII ship sailing through a developer terminal, representing design, build, and ship." width="100%" />
+    <img src="assets/salty-siren-terminal.svg" alt="An original animated ASCII kraken with moving tentacles, glowing eyes and rolling waves, rising beside a creative developer terminal." width="100%" />
   </picture>
 </p>
 
-<sub>Original, self-hosted ASCII art in SVG. No JavaScript, tracking, remote generators, or live-data claims. Respects reduced-motion settings.</sub>
+<sub>Original animated ASCII kraken, built as self-hosted SVG artwork with alternating tentacle poses and flowing waves. No JavaScript, tracking, remote generators, or live-data claims. Respects reduced-motion settings.</sub>
 
 ### Selected projects
 

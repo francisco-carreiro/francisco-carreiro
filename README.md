@@ -4,26 +4,35 @@
 
 <br />
 
-**Building useful software where engineering, design, and automation meet.**
+**Engineering practical tools. Designing memorable experiences. Automating the rest.**
 
 [![Portfolio](https://img.shields.io/badge/Explore-Portfolio-E44858?style=for-the-badge&logo=vercel&logoColor=white)](https://fc-digital-architect.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-243447?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francisco-carreiro/)
 [![GitHub](https://img.shields.io/badge/View-Repositories-243447?style=for-the-badge&logo=github&logoColor=white)](https://github.com/francisco-carreiro?tab=repositories)
 
+**[Featured work](#featured-work) · [Toolbox](#the-toolbox) · [Field notes](#field-notes)**
+
 </div>
 
 ---
 
-### About me
+### Behind the terminal
 
-I'm **Francisco Carreiro**, a developer and digital creator interested in the space between **full-stack applications, practical tooling, infrastructure, and visual design**.
+I'm **Francisco Carreiro** — a full-stack developer and digital creator working at the intersection of **software, systems, automation, and design**.
 
-I like making things that solve real problems, whether that's a web application, a Windows utility, a workflow that saves time, or a carefully crafted interface. I care about maintainable code, thoughtful UX, and having control over the tools I run.
+I enjoy the whole process: solving the problem nobody sees, then refining the details everybody feels. Whether it's a web app, a desktop utility, or a self-hosted workflow, I aim to build things that are **useful, understandable, and dependable**.
 
-- **Build:** web experiences, developer tools, and desktop utilities
-- **Automate:** workflows, repetitive tasks, and system maintenance
-- **Explore:** AI-assisted software, local-first systems, and creative interfaces
-- **Create:** visual identity, UI/UX, interactive experiences, and games
+**My playground:** full-stack applications · Windows & Linux tooling · local-first ideas · AI-assisted workflows · UI/UX
+
+<details>
+<summary><strong>🧭 The builder's compass</strong> — a few principles I work by</summary>
+
+- **Clarity over cleverness.** The best solution is one a future maintainer can understand.
+- **Automation with guardrails.** Safe defaults, visible outcomes, and a way back.
+- **Design is part of engineering.** The small interactions matter as much as the architecture.
+- **Stay curious.** Experiment, document what works, and keep improving.
+
+</details>
 
 ### 🐙 Release the Kraken
 
@@ -31,7 +40,7 @@ I like making things that solve real problems, whether that's a web application,
   <img src="assets/kraken-terminal-v7-hd-matched.webp" alt="Cinematic animated ASCII Kraken rising from a moonlit sea within a dark terminal interface. Crimson eyes glow, tentacles and waves shift, and a developer command prompt appears beneath the scene." width="100%" />
 </p>
 
-<sub>Cinematic ASCII Kraken in a high-definition animated terminal, styled to match the project showcase with transparent rounded corners. Self-hosted animated WebP; no scripts, external image services, or fabricated GitHub metrics.</sub>
+<sub>My little corner of the abyss: a self-hosted, animated ASCII-inspired terminal with a nautical soul.</sub>
 
 ### Featured work
 
@@ -71,7 +80,9 @@ A selection of public projects spanning system tools, web applications, Python u
 
 <sub>These are personal and independent projects. Other open-source projects I explore or fork are available under the Repositories tab.</sub>
 
-### What I work with
+### The toolbox
+
+Technologies I use to build, automate, and refine projects across different environments.
 
 **Web & application development**
 
@@ -98,9 +109,13 @@ A selection of public projects spanning system tools, web applications, Python u
 ![Illustrator](https://img.shields.io/badge/Illustrator-202936?style=flat-square&logo=adobeillustrator&logoColor=FF9A00)
 ![Figma](https://img.shields.io/badge/Figma-202936?style=flat-square&logo=figma&logoColor=F24E1E)
 
+### Field notes
+
+Not every useful idea needs a full repository. I keep smaller experiments, reusable snippets, and practical notes in my **[public GitHub Gists](https://gist.github.com/francisco-carreiro)**.
+
 ### Beyond the code
 
-Music, art, games, and nature help shape the way I think about software. I enjoy projects that balance the technical details with the experience of the person using them.
+Music, visual art, games, and nature keep my curiosity running. They're a reminder that good software should feel as thoughtful as it is technical.
 
 ---
 
@@ -110,6 +125,6 @@ Music, art, games, and nature help shape the way I think about software. I enjoy
 
 [Portfolio](https://fc-digital-architect.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/francisco-carreiro/) · [GitHub projects](https://github.com/francisco-carreiro?tab=repositories)
 
-<sub>Thoughtfully built. Continuously improved.</sub>
+<sub>Build with intention · Keep the details sharp · Always keep learning</sub>
 
 </div>

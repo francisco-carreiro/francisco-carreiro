@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Francisco Carreiro — Full-Stack Developer and Digital Creator</title>
+<desc id="desc">Dark engineering-themed banner with crimson accents and a code-inspired panel.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+    <stop stop-color="#0A0F19"/>
+    <stop offset=".6" stop-color="#131C2A"/>
+    <stop offset="1" stop-color="#10151F"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" x2="1">
+    <stop stop-color="#E44858"/>
+    <stop offset=".75" stop-color="#D84850" stop-opacity=".4"/>
+    <stop offset="1" stop-color="#D84850" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M34 0H0V34" fill="none" stroke="#9CAFC3" stroke-opacity=".075" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+<rect width="1200" height="300" rx="16" fill="url(#grid)"/>
+<circle cx="1072" cy="-20" r="175" fill="#E44858" opacity=".07"/>
+<circle cx="1160" cy="268" r="140" fill="#E44858" opacity=".035"/>
+<rect x="42" y="42" width="6" height="48" rx="3" fill="#E44858"/>
+<text x="65" y="57" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3" fill="#F3757C">ENGINEERING × CREATIVITY</text>
+<text x="42" y="129" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="1" fill="#F8FAFC">FRANCISCO</text>
+<text x="42" y="189" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="1" fill="#F8FAFC">CARREIRO</text>
+<text x="44" y="231" font-family="Segoe UI,Arial,sans-serif" font-size="19" fill="#B7C6D8">Full-Stack Developer  /  Automation  /  Digital Design</text>
+<path d="M44 263H655" stroke="url(#line)" stroke-width="3" stroke-linecap="round"/>
+<rect x="747" y="50" width="407" height="205" rx="13" fill="#0A0F18" stroke="#364252" stroke-width="1.3"/>
+<rect x="747" y="50" width="407" height="36" rx="13" fill="#1B2634"/>
+<rect x="747" y="76" width="407" height="10" fill="#1B2634"/>
+<circle cx="768" cy="68" r="5" fill="#E66768"/>
+<circle cx="787" cy="68" r="5" fill="#E8BC69"/>
+<circle cx="806" cy="68" r="5" fill="#72BBA1"/>
+<text x="830" y="73" font-family="Consolas,monospace" font-size="12" fill="#A9BBCA">workspace / principles.ts</text>
+<text x="774" y="119" font-family="Consolas,monospace" font-size="16" fill="#CA96E8">const <tspan fill="#E7EDF5">approach</tspan> <tspan fill="#A1D2C4">=</tspan> <tspan fill="#E7EDF5">{</tspan></text>
+<text x="801" y="147" font-family="Consolas,monospace" font-size="15" fill="#B5C7DB">code: <tspan fill="#8BDBB9">"reliable"</tspan>,</text>
+<text x="801" y="172" font-family="Consolas,monospace" font-size="15" fill="#B5C7DB">design: <tspan fill="#8BDBB9">"intentional"</tspan>,</text>
+<text x="801" y="197" font-family="Consolas,monospace" font-size="15" fill="#B5C7DB">systems: <tspan fill="#8BDBB9">"practical"</tspan></text>
+<text x="774" y="224" font-family="Consolas,monospace" font-size="16" fill="#E7EDF5">};<tspan fill="#E44858">_</tspan></text>
+<rect x="0" y="295" width="1200" height="5" fill="url(#line)"/>
+</svg>

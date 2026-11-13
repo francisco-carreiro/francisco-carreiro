@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 316" width="1080" height="316" role="img" aria-labelledby="title description">
+<title id="title">The Salty Siren — ASCII shipyard terminal</title>
+<desc id="description">A self-contained animated ASCII sailing ship rides gently over code-like waves alongside a fictional terminal celebrating design, development, and deployment. Animation stops when reduced motion is preferred.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B111B"/><stop offset="1" stop-color="#111B29"/></linearGradient>
+ <linearGradient id="redline" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#E44858"/><stop offset="1" stop-color="#E44858" stop-opacity=".08"/></linearGradient>
+ <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#8A9AB0" stroke-opacity=".045"/></pattern>
+ <clipPath id="sea"><rect x="44" y="246" width="535" height="34"/></clipPath>
+</defs>
+<style>
+ :root { color-scheme: dark; }
+ .mono { font-family: 'Cascadia Code',Consolas,'Liberation Mono',monospace; }
+ .ship { font-family: 'Cascadia Code',Consolas,'Liberation Mono',monospace; font-size:19px; fill:#D2E2EF; font-weight:600; letter-spacing:.15px; animation: bob 6s ease-in-out infinite; }
+ .waves { font: 17px 'Cascadia Code',Consolas,'Liberation Mono',monospace; fill:#5E91A7; letter-spacing:3px; animation: drift 10s linear infinite; }
+ .waves.two { fill:#D45C6A; opacity:.5; animation-duration:13s; animation-direction:reverse; }
+ .star { animation: starpulse 4s ease-in-out infinite; }
+ .cursor { animation: blink 1s steps(1,end) infinite; }
+ .status.one { animation: breathe 7s ease-in-out infinite; }
+ .status.two { animation: breathe 7s ease-in-out infinite 1.2s; }
+ .status.three { animation: breathe 7s ease-in-out infinite 2.4s; }
+ .led { animation: starpulse 2.3s ease-in-out infinite; }
+ @keyframes bob { 0%,100% { transform:translateY(0px) rotate(-.15deg); } 50% { transform:translateY(-6px) rotate(.2deg); } }
+ @keyframes drift { from { transform:translateX(0px); } to { transform:translateX(-90px); } }
+ @keyframes starpulse { 0%,100% { opacity:.18; } 50% { opacity:.9; } }
+ @keyframes blink { 0%,49% { opacity:1; } 50%,100% { opacity:0; } }
+ @keyframes breathe { 0%,100% {opacity:.75;} 40%,65%{opacity:1;} }
+ @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation:none!important; } .star, .status, .led, .cursor {opacity:1!important;} }
+</style>
+<rect x="1" y="1" width="1078" height="314" rx="14" fill="url(#bg)" stroke="#344155" stroke-width="1.5"/>
+<rect x="2" y="2" width="1076" height="312" rx="13" fill="url(#grid)"/>
+<path d="M15 45H1065" stroke="#3A4B60"/>
+<circle cx="28" cy="23" r="5" fill="#DA5E6C"/><circle cx="46" cy="23" r="5" fill="#E2B565"/><circle cx="64" cy="23" r="5" fill="#69BDA7"/>
+<text x="88" y="28" font-family="Consolas,monospace" font-size="13" fill="#AFC0CF">francisco@salty-siren: ~/shipyard</text>
+<rect x="912" y="13" width="135" height="20" rx="10" fill="#19332F" stroke="#315C53"/>
+<circle cx="924" cy="23" r="3.5" fill="#80E0BA" class="led"/>
+<text x="934" y="27" class="mono" font-size="10" font-weight="700" fill="#B4ECD8" letter-spacing=".7">DEMO SIGNAL</text>
+<text x="44" y="75" class="mono" font-size="15" font-weight="700" fill="#F38A94" letter-spacing="1.4">// THE SALTY SIREN</text>
+<text x="44" y="95" class="mono" font-size="11" fill="#8298AF">ASCII NAVIGATION / CODE AT SEA</text>
+<path d="M609 67V283" stroke="#354559"/>
+<circle cx="96" cy="105" r="2.5" fill="#F2A7AD" class="star" style="animation-delay:0s"/>
+<circle cx="158" cy="95" r="1.8" fill="#93B4C6" class="star" style="animation-delay:0.65s"/>
+<circle cx="436" cy="106" r="1.4" fill="#93B4C6" class="star" style="animation-delay:1.3s"/>
+<circle cx="497" cy="136" r="1.8" fill="#F2A7AD" class="star" style="animation-delay:1.9500000000000002s"/>
+<circle cx="1006" cy="103" r="2" fill="#93B4C6" class="star" style="animation-delay:2.6s"/>
+<circle cx="980" cy="252" r="1.3" fill="#93B4C6" class="star" style="animation-delay:3.25s"/>
+<g class="ship">
+<text x="83" y="136" xml:space="preserve">                   |\             |\</text>
+<text x="83" y="157" xml:space="preserve">              /\   | \            | \</text>
+<text x="83" y="178" xml:space="preserve">             /__\  |  \           |  \</text>
+<text x="83" y="199" xml:space="preserve">            /____\ |___\          |___\</text>
+<text x="83" y="220" xml:space="preserve">        ____|______________ ______|______</text>
+<text x="83" y="241" xml:space="preserve">        \    o    o   SIREN   o    o   /</text>
+<text x="83" y="262" xml:space="preserve">         \____________________________/</text>
+</g>
+<g clip-path="url(#sea)">
+  <text x="35" y="271" xml:space="preserve" class="waves">~~~~ ~~ ~~~~~~ ~~~~ ~~ ~~~~~~~ ~~~~ ~~ ~~~~~~~ ~~~~ ~~~~~~</text>
+  <text x="30" y="289" xml:space="preserve" class="waves two">~~~ ~~ ~~~~ ~~~~ ~~~~ ~~~ ~~~ ~~~~ ~~~~ ~~~~ ~~~~~~ ~~~~</text>
+</g>
+<text x="44" y="300" class="mono" font-size="10" fill="#7189A2">:: SHIPPING IDEAS INTO WORKING SOFTWARE ::</text>
+<text x="645" y="80" class="mono" font-size="12" font-weight="700" fill="#DAE7F5" letter-spacing="1.2">MISSION CONSOLE</text>
+<text x="645" y="107" class="mono" font-size="12" fill="#7190A6"># illustrative terminal · not live data</text>
+<text x="645" y="140" class="mono" font-size="15" fill="#E97C89">$ <tspan fill="#E6EEF8">./siren --mission ship</tspan></text>
+<g class="status one"><text x="645" y="176" class="mono" font-size="15" fill="#8EE0C1">[✓] <tspan fill="#D4E2EE">DESIGN WITH INTENT</tspan></text></g>
+<g class="status two"><text x="645" y="205" class="mono" font-size="15" fill="#8EE0C1">[✓] <tspan fill="#D4E2EE">BUILD WITH CARE</tspan></text></g>
+<g class="status three"><text x="645" y="234" class="mono" font-size="15" fill="#8EE0C1">[✓] <tspan fill="#D4E2EE">SHIP WITH CONFIDENCE</tspan></text></g>
+<text x="645" y="273" class="mono" font-size="14" fill="#E97C89">francisco@siren:~$ <tspan fill="#D1DFED">_</tspan></text>
+<rect x="806" y="260" width="8" height="17" rx="1" fill="#E97C89" class="cursor"/>
+</svg>

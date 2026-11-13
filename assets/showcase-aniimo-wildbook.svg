@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 232" width="900" height="232" role="img" aria-labelledby="title desc">
+<title id="title">ANIIMO WILDBOOK — GitHub featured project</title>
+<desc id="desc">WEB APP · PWA · TEAM PLANNING. Dark engineering-style project card with a distinct vector emblem and #92D6B2 accents.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0C131F"/><stop offset=".6" stop-color="#121E2C"/><stop offset="1" stop-color="#0D1622"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#92D6B2"/><stop offset="1" stop-color="#5D9D9D" stop-opacity=".05"/></linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#B4C5D5" stroke-opacity=".045"/></pattern>
+</defs>
+<rect x="1" y="1" width="898" height="230" rx="14" fill="url(#background)" stroke="#3B4D60" stroke-width="1.5"/>
+<rect x="2" y="2" width="896" height="228" rx="13" fill="url(#grid)"/>
+<path d="M22 21H878" stroke="#394C5E"/>
+<circle cx="32" cy="21" r="4" fill="#E97986"/><circle cx="48" cy="21" r="4" fill="#E5BB7B"/><circle cx="64" cy="21" r="4" fill="#81CAB6"/>
+<rect x="22" y="46" width="4" height="30" rx="2" fill="#92D6B2"/>
+<text x="38" y="65" font-family="Consolas,'Liberation Mono',monospace" font-size="12" fill="#92D6B2" font-weight="700" letter-spacing="1.8">02 / WEB APPLICATIONS</text>
+<text x="37" y="120" font-family="Segoe UI,Arial,sans-serif" font-size="35" fill="#F0F5FA" font-weight="800" letter-spacing=".25">ANIIMO WILDBOOK</text>
+<text x="38" y="146" font-family="Consolas,'Liberation Mono',monospace" font-size="13" fill="#A7BCCF" letter-spacing=".45">WEB APP · PWA · TEAM PLANNING</text>
+<rect x="37" y="177" width="153.8" height="25" rx="5" fill="#92D6B2" fill-opacity=".09" stroke="#92D6B2" stroke-opacity=".34"/><text x="46.0" y="193" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#92D6B2" letter-spacing=".65">PROGRESSIVE WEB APP</text>
+<rect x="199.85" y="177" width="103.8" height="25" rx="5" fill="#92D6B2" fill-opacity=".09" stroke="#92D6B2" stroke-opacity=".34"/><text x="208.8" y="193" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#92D6B2" letter-spacing=".65">MOBILE-FIRST</text>
+<rect x="312.65" y="177" width="96.7" height="25" rx="5" fill="#92D6B2" fill-opacity=".09" stroke="#92D6B2" stroke-opacity=".34"/><text x="321.6" y="193" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#92D6B2" letter-spacing=".65">INTERACTIVE</text>
+<path d="M37 216H644" stroke="url(#accent)" stroke-width="2"/>
+<circle cx="758" cy="108" r="95" fill="#92D6B2" fill-opacity=".025"/>
+<g transform="translate(758 108)" stroke="#92D6B2" fill="none" stroke-width="3"><circle r="67" stroke-opacity=".25"/><path d="M0 -60C42 -60 56 -22 27 4C17 13 8 12 0 29C-8 12-17 13-27 4C-56 -22-42 -60 0 -60Z" stroke-width="2.5"/><path d="M-23 -10Q0 -32 23 -10 M-32 30Q0 62 32 30 M-48 8L-63 14 M48 8L63 14" stroke-opacity=".8"/><circle cx="-18" cy="-20" r="4" fill="#92D6B2" stroke="none"/><circle cx="18" cy="-20" r="4" fill="#92D6B2" stroke="none"/><circle cx="0" cy="7" r="5" fill="#92D6B2" stroke="none"/></g>
+</svg>

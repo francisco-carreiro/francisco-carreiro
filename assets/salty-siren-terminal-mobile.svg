@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="366" viewBox="0 0 620 366" role="img" aria-labelledby="t d">
+<title id="t">Salty Siren animated ASCII shipyard — mobile edition</title>
+<desc id="d">An ASCII sailing ship bobbing on stylized waves, above a build-and-ship motto. Static when reduced motion is enabled.</desc>
+<defs>
+<linearGradient id="b" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#0B111B"/><stop offset="1" stop-color="#152031"/></linearGradient>
+<pattern id="g" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" stroke="#B0C2D4" stroke-opacity=".06" fill="none"/></pattern>
+<clipPath id="w"><rect x="18" y="285" width="582" height="27"/></clipPath>
+</defs>
+<style>
+.m {font-family:Consolas,'Liberation Mono',monospace;}
+.s {font:600 20px Consolas,'Liberation Mono',monospace;fill:#D7E6F3;animation:b 6s ease-in-out infinite;}
+.w {font:18px Consolas,'Liberation Mono',monospace;fill:#6C9BB3;letter-spacing:3px;animation:d 9s linear infinite;}
+.c {animation:k 1s steps(1,end) infinite;}
+@keyframes b {0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+@keyframes d {from{transform:translateX(0)}to{transform:translateX(-60px)}}
+@keyframes k {0%,49%{opacity:1}50%,100%{opacity:0}}
+@media(prefers-reduced-motion:reduce){*{animation:none!important;}}
+</style>
+<rect x="1" y="1" width="618" height="364" rx="14" fill="url(#b)" stroke="#3C4D60" stroke-width="1.5"/>
+<rect x="2" y="2" width="616" height="362" rx="13" fill="url(#g)"/>
+<path d="M15 42H604" stroke="#364A5C"/>
+<circle cx="25" cy="22" r="5" fill="#D96172"/><circle cx="43" cy="22" r="5" fill="#E9B96C"/><circle cx="61" cy="22" r="5" fill="#6DBDA6"/>
+<text x="81" y="27" class="m" font-size="13" fill="#B2C8D6">~/salty-siren/shipyard</text>
+<text x="24" y="74" class="m" font-size="19" font-weight="700" fill="#E77888">:: S.S. SALTY SIREN</text>
+<text x="24" y="93" class="m" font-size="12" fill="#8EA5B8">ASCII NAVIGATION / CODE AT SEA</text>
+<g class="s"><text x="30" y="126" xml:space="preserve">                   |\             |\</text>
+<text x="30" y="149" xml:space="preserve">              /\   | \            | \</text>
+<text x="30" y="172" xml:space="preserve">             /__\  |  \           |  \</text>
+<text x="30" y="195" xml:space="preserve">            /____\ |___\          |___\</text>
+<text x="30" y="218" xml:space="preserve">        ____|______________ ______|______</text>
+<text x="30" y="241" xml:space="preserve">        \    o    o   SIREN   o    o   /</text>
+<text x="30" y="264" xml:space="preserve">         \____________________________/</text></g>
+<g clip-path="url(#w)"><text x="15" y="303" xml:space="preserve" class="w">~~~ ~~ ~~~~~~ ~~~~ ~~~~~~ ~~~~~~ ~~~~ ~~ ~~~~~~ ~~~~</text></g>
+<path d="M20 319H600" stroke="#39495A"/>
+<text x="23" y="345" class="m" font-size="16" fill="#8EE0C1">[✓] DESIGN  [✓] BUILD  [✓] SHIP</text>
+<rect x="529" y="328" width="8" height="17" fill="#EA8292" class="c"/>
+</svg>

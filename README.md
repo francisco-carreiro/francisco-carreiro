@@ -33,34 +33,43 @@ I like making things that solve real problems, whether that's a web application,
 
 <sub>Cinematic ASCII Kraken in an animated terminal with transparent rounded corners. Self-hosted animated WebP; no scripts, external image services, or fabricated GitHub metrics.</sub>
 
-### Selected projects
+### Featured work
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>⚔️ <a href="https://github.com/francisco-carreiro/mimir-forge">MÍMIR FORGE</a></h3>
-      <p>Portable Windows 11 toolbox for diagnostics, security inspection, guided repairs, and opt-in system preferences. Built around visibility, reversibility, and user control.</p>
-      <p><a href="https://github.com/francisco-carreiro/mimir-forge">Explore the project →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✿ <a href="https://github.com/francisco-carreiro/aniimo-center">Aniimo Wildbook</a></h3>
-      <p>Mobile-friendly companion and installable PWA for exploring Aniimo, comparing forms, planning teams, and tracking a personal collection.</p>
-      <p><a href="https://aniimo-center.netlify.app/">Open the app →</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧼 <a href="https://github.com/francisco-carreiro/background-remover">Background Remover</a></h3>
-      <p>Python desktop application for AI-assisted image background removal, batch processing, previews, and optional watermarking.</p>
-      <p><a href="https://github.com/francisco-carreiro/background-remover">Explore the project →</a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/francisco-carreiro/portfolio">Portfolio</a></h3>
-      <p>A personal portfolio project showcasing web development and visual presentation. Also take a look at my current digital portfolio.</p>
-      <p><a href="https://fc-digital-architect.netlify.app/">Visit my portfolio →</a></p>
-    </td>
-  </tr>
-</table>
+A selection of public projects spanning system tools, web applications, Python utilities and digital design.
+
+<a href="https://github.com/francisco-carreiro/mimir-forge">
+  <img src="assets/showcase-mimir-forge.svg" alt="MÍMIR FORGE — Windows 11 diagnostics, recovery and safety-first tooling" width="100%" />
+</a>
+
+**MÍMIR FORGE** — A portable Windows 11 toolkit bringing diagnostics, security inspection, guided repairs and individually approved system preferences into one interface. Designed around visibility, reversibility and user control.
+
+[Repository](https://github.com/francisco-carreiro/mimir-forge) · [Releases](https://github.com/francisco-carreiro/mimir-forge/releases)
+
+<a href="https://github.com/francisco-carreiro/aniimo-center">
+  <img src="assets/showcase-aniimo-wildbook.svg" alt="Aniimo Wildbook — mobile-friendly progressive web app and team planner" width="100%" />
+</a>
+
+**Aniimo Wildbook** — An independent, installable PWA for exploring creature forms, planning teams and builds, and tracking a personal collection. Built with a mobile-first experience in mind.
+
+[Live app](https://aniimo-center.netlify.app/) · [Repository](https://github.com/francisco-carreiro/aniimo-center)
+
+<a href="https://github.com/francisco-carreiro/background-remover">
+  <img src="assets/showcase-background-remover.svg" alt="Background Remover — Python desktop image processing with drag-and-drop and batch support" width="100%" />
+</a>
+
+**Background Remover** — A Python desktop utility for AI-assisted background removal, batch image processing, previews and optional watermarking.
+
+[Repository](https://github.com/francisco-carreiro/background-remover)
+
+<a href="https://github.com/francisco-carreiro/portfolio">
+  <img src="assets/showcase-portfolio.svg" alt="Digital Portfolio — front-end interfaces and visual design" width="100%" />
+</a>
+
+**Digital Portfolio** — My public front-end portfolio project, alongside my current personal site showcasing development and creative work.
+
+[Current portfolio](https://fc-digital-architect.netlify.app/) · [Public repository](https://github.com/francisco-carreiro/portfolio)
+
+<sub>These are personal and independent projects. Other open-source projects I explore or fork are available under the Repositories tab.</sub>
 
 ### What I work with
 

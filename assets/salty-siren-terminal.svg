@@ -1,68 +1,130 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1080 316" width="1080" height="316" role="img" aria-labelledby="title description">
-<title id="title">The Salty Siren — ASCII shipyard terminal</title>
-<desc id="description">A self-contained animated ASCII sailing ship rides gently over code-like waves alongside a fictional terminal celebrating design, development, and deployment. Animation stops when reduced motion is preferred.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 418" width="1100" height="418" role="img" aria-labelledby="title desc">
+<title id="title">Release the Kraken — Francisco's animated ASCII command center</title>
+<desc id="desc">Original ASCII kraken rises among looping waves, tentacles cycle through three hand-drawn shapes, bubbles rise, and a fictional developer console celebrates design, build and ship. Reduced-motion settings show a static composition.</desc>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B111B"/><stop offset="1" stop-color="#111B29"/></linearGradient>
- <linearGradient id="redline" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#E44858"/><stop offset="1" stop-color="#E44858" stop-opacity=".08"/></linearGradient>
- <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#8A9AB0" stroke-opacity=".045"/></pattern>
- <clipPath id="sea"><rect x="44" y="246" width="535" height="34"/></clipPath>
+<linearGradient id="ocean" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#090F1B"/><stop offset=".64" stop-color="#111F2E"/><stop offset="1" stop-color="#101621"/></linearGradient>
+<linearGradient id="accent" x1="0" x2="1"><stop stop-color="#E56373"/><stop offset="1" stop-color="#E56373" stop-opacity="0"/></linearGradient>
+<pattern id="grid" width="25" height="25" patternUnits="userSpaceOnUse"><path d="M25 0H0V25" stroke="#A8B9CC" stroke-opacity=".055" fill="none"/></pattern>
+<clipPath id="sea"><rect x="24" y="333" width="623" height="59"/></clipPath>
 </defs>
+
 <style>
- :root { color-scheme: dark; }
- .mono { font-family: 'Cascadia Code',Consolas,'Liberation Mono',monospace; }
- .ship { font-family: 'Cascadia Code',Consolas,'Liberation Mono',monospace; font-size:19px; fill:#D2E2EF; font-weight:600; letter-spacing:.15px; animation: bob 6s ease-in-out infinite; }
- .waves { font: 17px 'Cascadia Code',Consolas,'Liberation Mono',monospace; fill:#5E91A7; letter-spacing:3px; animation: drift 10s linear infinite; }
- .waves.two { fill:#D45C6A; opacity:.5; animation-duration:13s; animation-direction:reverse; }
- .star { animation: starpulse 4s ease-in-out infinite; }
- .cursor { animation: blink 1s steps(1,end) infinite; }
- .status.one { animation: breathe 7s ease-in-out infinite; }
- .status.two { animation: breathe 7s ease-in-out infinite 1.2s; }
- .status.three { animation: breathe 7s ease-in-out infinite 2.4s; }
- .led { animation: starpulse 2.3s ease-in-out infinite; }
- @keyframes bob { 0%,100% { transform:translateY(0px) rotate(-.15deg); } 50% { transform:translateY(-6px) rotate(.2deg); } }
- @keyframes drift { from { transform:translateX(0px); } to { transform:translateX(-90px); } }
- @keyframes starpulse { 0%,100% { opacity:.18; } 50% { opacity:.9; } }
- @keyframes blink { 0%,49% { opacity:1; } 50%,100% { opacity:0; } }
- @keyframes breathe { 0%,100% {opacity:.75;} 40%,65%{opacity:1;} }
- @media (prefers-reduced-motion: reduce) { *, *::before, *::after { animation:none!important; } .star, .status, .led, .cursor {opacity:1!important;} }
+.mono,.ascii{font-family:'Cascadia Code',Consolas,'Liberation Mono',monospace}
+.ascii{font-size:17px;font-weight:600;fill:#D8E8F1;letter-spacing:0;white-space:pre}
+.eye{fill:#FA7584;animation:eye 6s steps(1,end) infinite}
+.pose-a{opacity:1;animation:poseA 6s steps(1,end) infinite}
+.pose-b{opacity:0;animation:poseB 6s steps(1,end) infinite}
+.pose-c{opacity:0;animation:poseC 6s steps(1,end) infinite}
+.core{animation:float 6s ease-in-out infinite}
+.tentacles-left{animation:swayL 5s ease-in-out infinite}
+.tentacles-right{animation:swayR 5.4s ease-in-out infinite}
+.wave{font:19px Consolas,'Liberation Mono',monospace;letter-spacing:2px;white-space:pre;animation:wave 10s linear infinite}
+.wave-back{fill:#447D91;opacity:.78}
+.wave-front{fill:#DF6676;opacity:.58;animation-duration:13s;animation-direction:reverse}
+.bubble{font:14px Consolas,monospace;fill:#75AFC3;animation:rise 5s ease-in-out infinite;opacity:0}
+.bubble.two{animation-delay:1.8s}.bubble.three{animation-delay:3.1s}
+.cursor{animation:blink 1s steps(1,end) infinite}
+.radar{animation:pulse 3s ease-in-out infinite}
+@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-6px)}}
+@keyframes swayL{0%,100%{transform:translateX(0)}50%{transform:translateX(7px)}}
+@keyframes swayR{0%,100%{transform:translateX(0)}50%{transform:translateX(-8px)}}
+@keyframes poseA{0%,32.99%{opacity:1}33%,100%{opacity:0}}
+@keyframes poseB{0%,32.99%{opacity:0}33%,65.99%{opacity:1}66%,100%{opacity:0}}
+@keyframes poseC{0%,65.99%{opacity:0}66%,100%{opacity:1}}
+@keyframes wave{from{transform:translateX(0)}to{transform:translateX(-85px)}}
+@keyframes rise{0%,5%{opacity:0;transform:translateY(0)}20%,75%{opacity:.75}100%{opacity:0;transform:translateY(-70px)}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}
+@keyframes eye{0%,43%,52%,100%{fill:#FA7584}44%,51%{fill:#F4D9D9}}
+@media(prefers-reduced-motion:reduce){
+*,*::before,*::after{animation:none!important}
+.pose-a{opacity:1}.pose-b,.pose-c{opacity:0}.cursor,.radar{opacity:1}.bubble{opacity:0}
+}
 </style>
-<rect x="1" y="1" width="1078" height="314" rx="14" fill="url(#bg)" stroke="#344155" stroke-width="1.5"/>
-<rect x="2" y="2" width="1076" height="312" rx="13" fill="url(#grid)"/>
-<path d="M15 45H1065" stroke="#3A4B60"/>
-<circle cx="28" cy="23" r="5" fill="#DA5E6C"/><circle cx="46" cy="23" r="5" fill="#E2B565"/><circle cx="64" cy="23" r="5" fill="#69BDA7"/>
-<text x="88" y="28" font-family="Consolas,monospace" font-size="13" fill="#AFC0CF">francisco@salty-siren: ~/shipyard</text>
-<rect x="912" y="13" width="135" height="20" rx="10" fill="#19332F" stroke="#315C53"/>
-<circle cx="924" cy="23" r="3.5" fill="#80E0BA" class="led"/>
-<text x="934" y="27" class="mono" font-size="10" font-weight="700" fill="#B4ECD8" letter-spacing=".7">DEMO SIGNAL</text>
-<text x="44" y="75" class="mono" font-size="15" font-weight="700" fill="#F38A94" letter-spacing="1.4">// THE SALTY SIREN</text>
-<text x="44" y="95" class="mono" font-size="11" fill="#8298AF">ASCII NAVIGATION / CODE AT SEA</text>
-<path d="M609 67V283" stroke="#354559"/>
-<circle cx="96" cy="105" r="2.5" fill="#F2A7AD" class="star" style="animation-delay:0s"/>
-<circle cx="158" cy="95" r="1.8" fill="#93B4C6" class="star" style="animation-delay:0.65s"/>
-<circle cx="436" cy="106" r="1.4" fill="#93B4C6" class="star" style="animation-delay:1.3s"/>
-<circle cx="497" cy="136" r="1.8" fill="#F2A7AD" class="star" style="animation-delay:1.9500000000000002s"/>
-<circle cx="1006" cy="103" r="2" fill="#93B4C6" class="star" style="animation-delay:2.6s"/>
-<circle cx="980" cy="252" r="1.3" fill="#93B4C6" class="star" style="animation-delay:3.25s"/>
-<g class="ship">
-<text x="83" y="136" xml:space="preserve">                   |\             |\</text>
-<text x="83" y="157" xml:space="preserve">              /\   | \            | \</text>
-<text x="83" y="178" xml:space="preserve">             /__\  |  \           |  \</text>
-<text x="83" y="199" xml:space="preserve">            /____\ |___\          |___\</text>
-<text x="83" y="220" xml:space="preserve">        ____|______________ ______|______</text>
-<text x="83" y="241" xml:space="preserve">        \    o    o   SIREN   o    o   /</text>
-<text x="83" y="262" xml:space="preserve">         \____________________________/</text>
+<rect x="1" y="1" width="1098" height="416" rx="15" fill="url(#ocean)" stroke="#35465A" stroke-width="1.7"/>
+<rect x="2" y="2" width="1096" height="414" rx="14" fill="url(#grid)"/>
+<path d="M18 46H1082" stroke="#344459"/>
+<circle cx="30" cy="23" r="5" fill="#DB596F"/><circle cx="49" cy="23" r="5" fill="#E4B46D"/><circle cx="68" cy="23" r="5" fill="#75C1AE"/>
+<text x="89" y="28" class="mono" font-size="13" fill="#B5C4D3">francisco@salty-siren: ~/abyss</text>
+<circle cx="925" cy="23" r="4" fill="#ED7885" class="radar"/>
+<text x="937" y="27" class="mono" font-size="12" fill="#E69EA5">ARTISTIC SIMULATION</text>
+<path d="M661 65V391" stroke="#34475C"/>
+<text x="29" y="80" class="mono" font-size="16" font-weight="700" letter-spacing="2" fill="#F38B98">[  RELEASE THE KRAKEN  ]</text>
+<text x="29" y="101" class="mono" font-size="12" fill="#87A3B8">ABYSSAL ASCII ENGINE  /  CREATIVE MODE</text>
+<path d="M29 115H644" stroke="url(#accent)" stroke-width="2"/>
+<text x="115" y="260" class="bubble">o</text><text x="527" y="244" class="bubble two">o</text><text x="583" y="304" class="bubble three">.</text>
+<g class="ascii">
+<g class="tentacles-left"><g class="pose-a" xml:space="preserve"><text x="31" y="161">      __..--.._   </text>
+<text x="31" y="183">   .-'  .--.  '-. </text>
+<text x="31" y="205">  /   .'    '.   \</text>
+<text x="31" y="227"> (   (  .--.  )  )</text>
+<text x="31" y="249">  \   '.____.'  / </text>
+<text x="31" y="271">   '-._      _.-' </text>
+<text x="31" y="293">       '----'     </text>
+<text x="31" y="315">        \\__      </text></g><g class="pose-b" xml:space="preserve"><text x="31" y="161">       _..--.     </text>
+<text x="31" y="183">    .-' .--. '-._ </text>
+<text x="31" y="205">   /  .'    '.   \</text>
+<text x="31" y="227">  (  (  .--.  )  )</text>
+<text x="31" y="249">   \  '.____.'  / </text>
+<text x="31" y="271">    '._       _.' </text>
+<text x="31" y="293">       '--..--'   </text>
+<text x="31" y="315">          \\_     </text></g><g class="pose-c" xml:space="preserve"><text x="31" y="161">      _.--..__    </text>
+<text x="31" y="183">   _.-' .--. '-.  </text>
+<text x="31" y="205">  /   .'    '.  \ </text>
+<text x="31" y="227"> (   (  .--. )   )</text>
+<text x="31" y="249">  \   '.____.'  / </text>
+<text x="31" y="271">   '._        _.' </text>
+<text x="31" y="293">      '--.__--'   </text>
+<text x="31" y="315">        __//      </text></g></g>
+<g class="core"><g class="body" xml:space="preserve"><text x="192" y="140">       .-~~~~~~~-.      </text>
+<text x="192" y="161">     .'   .---.   '.    </text>
+<text x="192" y="182">    /    /     \    \   </text>
+<text x="192" y="203">   |    | <tspan class="eye">o</tspan>   <tspan class="eye">o</tspan> |    |  </text>
+<text x="192" y="224">   |    |   ^   |    |  </text>
+<text x="192" y="245">   |    |  ===  |    |  </text>
+<text x="192" y="266">    \    \ ___ /    /   </text>
+<text x="192" y="287">     '._  '---'  _.'    </text>
+<text x="192" y="308">        '--...--'       </text>
+<text x="192" y="329">         /|||||\        </text>
+<text x="192" y="350">        /_|||||_\       </text></g></g>
+<g class="tentacles-right"><g class="pose-a" xml:space="preserve"><text x="468" y="161">   _..--..__      </text>
+<text x="468" y="183"> .-'  .--.  '-.   </text>
+<text x="468" y="205">/   .'    '.   \  </text>
+<text x="468" y="227">(  (  .--.  )   ) </text>
+<text x="468" y="249"> \  '.____.'   /  </text>
+<text x="468" y="271"> '-._      _.-'   </text>
+<text x="468" y="293">     '----'       </text>
+<text x="468" y="315">      __//        </text></g><g class="pose-b" xml:space="preserve"><text x="468" y="161">     .--.._       </text>
+<text x="468" y="183"> _.-' .--. '-.    </text>
+<text x="468" y="205">/   .'    '.  \   </text>
+<text x="468" y="227">(  (  .--.  )  )  </text>
+<text x="468" y="249"> \  '.____.'  /   </text>
+<text x="468" y="271"> '._       _.'    </text>
+<text x="468" y="293">   '--..--'       </text>
+<text x="468" y="315">     _//          </text></g><g class="pose-c" xml:space="preserve"><text x="468" y="161">    __..--._      </text>
+<text x="468" y="183">  .-' .--. '-._   </text>
+<text x="468" y="205"> /  .'    '.   \  </text>
+<text x="468" y="227">(   ( .--.  )   ) </text>
+<text x="468" y="249"> \  '.____.'   /  </text>
+<text x="468" y="271"> '._        _.'   </text>
+<text x="468" y="293">   '--__.--'      </text>
+<text x="468" y="315">      \\__        </text></g></g>
 </g>
 <g clip-path="url(#sea)">
-  <text x="35" y="271" xml:space="preserve" class="waves">~~~~ ~~ ~~~~~~ ~~~~ ~~ ~~~~~~~ ~~~~ ~~ ~~~~~~~ ~~~~ ~~~~~~</text>
-  <text x="30" y="289" xml:space="preserve" class="waves two">~~~ ~~ ~~~~ ~~~~ ~~~~ ~~~ ~~~ ~~~~ ~~~~ ~~~~ ~~~~~~ ~~~~</text>
+<text x="11" y="352" xml:space="preserve" class="wave wave-back">~~~ ~~ ~~~~~ ~~ ~~~~~~~ ~~ ~~~~~~ ~~~ ~~ ~~~~~ ~~ ~~~~~~~ ~~~~~~ ~~</text>
+<text x="-6" y="378" xml:space="preserve" class="wave wave-front">~==~~ =~= ~~==~~ ~~~=~ ==~~ ~==~~ ~~==~~ ~~~=~ ==~~ ~==~~</text>
 </g>
-<text x="44" y="300" class="mono" font-size="10" fill="#7189A2">:: SHIPPING IDEAS INTO WORKING SOFTWARE ::</text>
-<text x="645" y="80" class="mono" font-size="12" font-weight="700" fill="#DAE7F5" letter-spacing="1.2">MISSION CONSOLE</text>
-<text x="645" y="107" class="mono" font-size="12" fill="#7190A6"># illustrative terminal · not live data</text>
-<text x="645" y="140" class="mono" font-size="15" fill="#E97C89">$ <tspan fill="#E6EEF8">./siren --mission ship</tspan></text>
-<g class="status one"><text x="645" y="176" class="mono" font-size="15" fill="#8EE0C1">[✓] <tspan fill="#D4E2EE">DESIGN WITH INTENT</tspan></text></g>
-<g class="status two"><text x="645" y="205" class="mono" font-size="15" fill="#8EE0C1">[✓] <tspan fill="#D4E2EE">BUILD WITH CARE</tspan></text></g>
-<g class="status three"><text x="645" y="234" class="mono" font-size="15" fill="#8EE0C1">[✓] <tspan fill="#D4E2EE">SHIP WITH CONFIDENCE</tspan></text></g>
-<text x="645" y="273" class="mono" font-size="14" fill="#E97C89">francisco@siren:~$ <tspan fill="#D1DFED">_</tspan></text>
-<rect x="806" y="260" width="8" height="17" rx="1" fill="#E97C89" class="cursor"/>
+<rect x="26" y="402" width="609" height="2" fill="url(#accent)" opacity=".6"/>
+<rect x="685" y="83" width="383" height="289" rx="10" fill="#0A111D" stroke="#33485A"/>
+<path d="M686 121H1067" stroke="#2F4154"/>
+<text x="705" y="109" class="mono" font-size="13" font-weight="700" fill="#BFD3E1">ABYSS / COMMAND CONSOLE</text>
+<text x="705" y="148" class="mono" font-size="14" fill="#F18491">$ <tspan fill="#DCE8F4">./release --kraken</tspan></text>
+<text x="705" y="184" class="mono" font-size="13" fill="#A0B5C7">[00] sea_level: rising...</text>
+<text x="705" y="213" class="mono" font-size="13" fill="#8DE2C2">[OK] imagination unlocked</text>
+<text x="705" y="242" class="mono" font-size="13" fill="#8DE2C2">[OK] ideas in motion</text>
+<text x="705" y="271" class="mono" font-size="13" fill="#8DE2C2">[OK] software ready to ship</text>
+<path d="M705 292H1046" stroke="#2E4052"/>
+<text x="705" y="319" class="mono" font-size="12" fill="#8DA9BC">KRAKEN_STATUS: <tspan fill="#ED8492">UNLEASHED</tspan></text>
+<text x="705" y="350" class="mono" font-size="15" fill="#D9E5EF">francisco@abyss:~$</text><rect x="901" y="335" width="8" height="17" rx="1" fill="#F18A97" class="cursor"/>
+<text x="690" y="396" class="mono" font-size="11" fill="#7792A8">DESIGN WITH INTENT. BUILD WITH CARE.</text>
 </svg>

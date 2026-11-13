@@ -28,7 +28,7 @@ I like making things that solve real problems, whether that's a web application,
 ### 🐙 Release the Kraken
 
 <p align="center">
-  <img src="assets/kraken-terminal-v6-rounded.webp" alt="Cinematic animated ASCII Kraken rising from a moonlit sea within a dark terminal interface. Crimson eyes glow, tentacles and waves shift, and a developer command prompt appears beneath the scene." width="100%" />
+  <img src="assets/kraken-terminal-cinematic-v6-rounded.webp" alt="Cinematic animated ASCII Kraken rising from a moonlit sea within a dark terminal interface. Crimson eyes glow, tentacles and waves shift, and a developer command prompt appears beneath the scene." width="100%" />
 </p>
 
 <sub>Cinematic ASCII Kraken in an animated terminal with transparent rounded corners. Self-hosted animated WebP; no scripts, external image services, or fabricated GitHub metrics.</sub>

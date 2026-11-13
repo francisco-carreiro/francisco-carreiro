@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 232" width="900" height="232" role="img" aria-labelledby="title desc">
+<title id="title">MÍMIR FORGE — GitHub featured project</title>
+<desc id="desc">WINDOWS 11 · DIAGNOSTICS · RECOVERY. Dark engineering-style project card with a distinct vector emblem and #DAA968 accents.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0C131F"/><stop offset=".6" stop-color="#121E2C"/><stop offset="1" stop-color="#0D1622"/></linearGradient>
+  <linearGradient id="accent" x1="0" x2="1"><stop stop-color="#DAA968"/><stop offset="1" stop-color="#AC7C53" stop-opacity=".05"/></linearGradient>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#B4C5D5" stroke-opacity=".045"/></pattern>
+</defs>
+<rect x="1" y="1" width="898" height="230" rx="14" fill="url(#background)" stroke="#3B4D60" stroke-width="1.5"/>
+<rect x="2" y="2" width="896" height="228" rx="13" fill="url(#grid)"/>
+<path d="M22 21H878" stroke="#394C5E"/>
+<circle cx="32" cy="21" r="4" fill="#E97986"/><circle cx="48" cy="21" r="4" fill="#E5BB7B"/><circle cx="64" cy="21" r="4" fill="#81CAB6"/>
+<rect x="22" y="46" width="4" height="30" rx="2" fill="#DAA968"/>
+<text x="38" y="65" font-family="Consolas,'Liberation Mono',monospace" font-size="12" fill="#DAA968" font-weight="700" letter-spacing="1.8">01 / SYSTEMS</text>
+<text x="37" y="120" font-family="Segoe UI,Arial,sans-serif" font-size="35" fill="#F0F5FA" font-weight="800" letter-spacing=".25">MÍMIR FORGE</text>
+<text x="38" y="146" font-family="Consolas,'Liberation Mono',monospace" font-size="13" fill="#A7BCCF" letter-spacing=".45">WINDOWS 11 · DIAGNOSTICS · RECOVERY</text>
+<rect x="37" y="177" width="153.8" height="25" rx="5" fill="#DAA968" fill-opacity=".09" stroke="#DAA968" stroke-opacity=".34"/><text x="46.0" y="193" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#DAA968" letter-spacing=".65">SYSTEM INTELLIGENCE</text>
+<rect x="199.85" y="177" width="103.8" height="25" rx="5" fill="#DAA968" fill-opacity=".09" stroke="#DAA968" stroke-opacity=".34"/><text x="208.8" y="193" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#DAA968" letter-spacing=".65">SAFETY FIRST</text>
+<rect x="312.65" y="177" width="96.7" height="25" rx="5" fill="#DAA968" fill-opacity=".09" stroke="#DAA968" stroke-opacity=".34"/><text x="321.6" y="193" font-family="Segoe UI,Arial,sans-serif" font-size="10" font-weight="700" fill="#DAA968" letter-spacing=".65">LOCAL-FIRST</text>
+<path d="M37 216H644" stroke="url(#accent)" stroke-width="2"/>
+<circle cx="758" cy="108" r="95" fill="#DAA968" fill-opacity=".025"/>
+<g transform="translate(758 108)" fill="none" stroke="#DAA968" stroke-linecap="round" stroke-linejoin="round"><circle r="74" stroke-opacity=".18" stroke-width="2"/><circle r="55" stroke-opacity=".5" stroke-width="2"/><path d="M-27 -20L0 -45L27 -20V19L0 45L-27 19Z M-27 -20L27 19 M27 -20L-27 19 M0 -45V45" stroke-width="2.5"/><circle r="11" fill="#0D1721" stroke-width="3"/><path d="M-45 52L-57 65 M45 -52L57 -65" stroke-opacity=".5" stroke-width="2"/></g>
+</svg>
